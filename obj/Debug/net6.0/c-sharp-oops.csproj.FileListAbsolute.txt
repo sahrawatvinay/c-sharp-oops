@@ -1,0 +1,15 @@
+C:\Git\c-sharp-oops\bin\Debug\net6.0\c-sharp-oops.exe
+C:\Git\c-sharp-oops\bin\Debug\net6.0\c-sharp-oops.deps.json
+C:\Git\c-sharp-oops\bin\Debug\net6.0\c-sharp-oops.runtimeconfig.json
+C:\Git\c-sharp-oops\bin\Debug\net6.0\c-sharp-oops.dll
+C:\Git\c-sharp-oops\bin\Debug\net6.0\c-sharp-oops.pdb
+C:\Git\c-sharp-oops\obj\Debug\net6.0\c-sharp-oops.csproj.AssemblyReference.cache
+C:\Git\c-sharp-oops\obj\Debug\net6.0\c-sharp-oops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\c-sharp-oops\obj\Debug\net6.0\c-sharp-oops.AssemblyInfoInputs.cache
+C:\Git\c-sharp-oops\obj\Debug\net6.0\c-sharp-oops.AssemblyInfo.cs
+C:\Git\c-sharp-oops\obj\Debug\net6.0\c-sharp-oops.csproj.CoreCompileInputs.cache
+C:\Git\c-sharp-oops\obj\Debug\net6.0\c-sharp-oops.dll
+C:\Git\c-sharp-oops\obj\Debug\net6.0\refint\c-sharp-oops.dll
+C:\Git\c-sharp-oops\obj\Debug\net6.0\c-sharp-oops.pdb
+C:\Git\c-sharp-oops\obj\Debug\net6.0\c-sharp-oops.genruntimeconfig.cache
+C:\Git\c-sharp-oops\obj\Debug\net6.0\ref\c-sharp-oops.dll
